@@ -1,5 +1,5 @@
 'use client';
-import { FaGithub, FaLinkedin } from 'react-icons/fa';
+import { FaLinkedin } from 'react-icons/fa';
 import { HiOutlineDocumentDownload } from 'react-icons/hi';
 
 export default function Home() {
@@ -131,7 +131,8 @@ export default function Home() {
           <h2 className="text-3xl font-semibold text-black mb-6">Get In Touch</h2>
           <p className="text-slate-600 text-sm mb-4">
             I’m currently looking for internships in AI and ML engineering and research space.
-            If you're building something forward-thinking, let's connect.
+           {`If you're building something forward-thinking — let's connect.`}
+
           </p>
           <a
   href="https://docs.google.com/forms/d/e/1FAIpQLSeGwXG_Cgxsb-2IzKCmwAY5U3YZf9M8G_fOSa2zUHwHJsIQ4Q/viewform?usp=header"
