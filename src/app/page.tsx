@@ -25,7 +25,7 @@ export default function Home() {
 
           <div className="flex items-center space-x-6 mt-6 text-accent">
           <a
-  href="https://drive.google.com/file/d/1JYwf2h7m9gVayCr2pQe3LiUXmRGS4IUY/view?usp=sharing"
+  href="https://drive.google.com/file/d/1wXmKcmDWjpt6AOo0HHxE2whDl9C1X_fO/view?usp=sharing"
   target="_blank"
   rel="noopener noreferrer"
   className="group flex items-center space-x-2 hover:text-accentHover transition-colors"
